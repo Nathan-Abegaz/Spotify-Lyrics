@@ -1,7 +1,7 @@
 # Spotify-Lyrics
 <Enter Description>
 
-## Demo 📝
+## Demo
 
 
 
